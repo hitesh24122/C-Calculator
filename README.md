@@ -1,5 +1,3 @@
-# C-Calculator
-A simple calculator built using C programming.
 # Simple Calculator in C
 
 This is a beginner-friendly calculator project developed using the C programming language.
